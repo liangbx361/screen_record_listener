@@ -40,7 +40,7 @@ flutter:
     # https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms
     # -------------------
       android:
-        package: com.example.screen_record_listener
+        package: com.liangbx361.screen_record_listener
         pluginClass: ScreenRecordListenerPlugin
       ios:
         pluginClass: ScreenRecordListenerPlugin

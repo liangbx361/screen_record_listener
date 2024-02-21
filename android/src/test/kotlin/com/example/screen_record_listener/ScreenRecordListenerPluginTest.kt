@@ -1,4 +1,4 @@
-package com.example.screen_record_listener
+package com.liangbx361.screen_record_listener
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
